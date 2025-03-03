@@ -1,0 +1,41 @@
+﻿  DBKDrvr.c
+D:\gcCopia\cheat-engine\DBKKernel\DBKFunc.h(6,10): error C1083: Não é possível abrir arquivo incluir: 'ntifs.h': No such file or directory
+  (compilando o arquivo fonte 'DBKDrvr.c')
+  
+  DBKFunc.c
+D:\gcCopia\cheat-engine\DBKKernel\DBKFunc.c(3,10): error C1083: Não é possível abrir arquivo incluir: 'ntifs.h': No such file or directory
+  debugger.c
+D:\gcCopia\cheat-engine\DBKKernel\debugger.c(8,10): error C1083: Não é possível abrir arquivo incluir: 'ntifs.h': No such file or directory
+  deepkernel.c
+D:\gcCopia\cheat-engine\DBKKernel\deepkernel.h(1,10): error C1083: Não é possível abrir arquivo incluir: 'ntifs.h': No such file or directory
+  (compilando o arquivo fonte 'deepkernel.c')
+  
+  interruptHook.c
+D:\gcCopia\cheat-engine\DBKKernel\interruptHook.c(3,10): error C1083: Não é possível abrir arquivo incluir: 'ntifs.h': No such file or directory
+  IOPLDispatcher.c
+D:\gcCopia\cheat-engine\DBKKernel\DBKfunc.h(6,10): error C1083: Não é possível abrir arquivo incluir: 'ntifs.h': No such file or directory
+  (compilando o arquivo fonte 'IOPLDispatcher.c')
+  
+  memscan.c
+D:\gcCopia\cheat-engine\DBKKernel\memscan.c(3,10): error C1083: Não é possível abrir arquivo incluir: 'ntifs.h': No such file or directory
+  noexceptions.c
+D:\gcCopia\cheat-engine\DBKKernel\noexceptions.h(7,10): error C1083: Não é possível abrir arquivo incluir: 'ntifs.h': No such file or directory
+  (compilando o arquivo fonte 'noexceptions.c')
+  
+  processlist.c
+D:\gcCopia\cheat-engine\DBKKernel\processlist.c(3,10): error C1083: Não é possível abrir arquivo incluir: 'ntifs.h': No such file or directory
+  threads.c
+D:\gcCopia\cheat-engine\DBKKernel\threads.h(5,10): error C1083: Não é possível abrir arquivo incluir: 'ntifs.h': No such file or directory
+  (compilando o arquivo fonte 'threads.c')
+  
+  ultimap.c
+D:\gcCopia\cheat-engine\DBKKernel\ultimap.c(8,10): error C1083: Não é possível abrir arquivo incluir: 'ntifs.h': No such file or directory
+  ultimap2.c
+D:\gcCopia\cheat-engine\DBKKernel\ultimap2.c(3,10): error C1083: Não é possível abrir arquivo incluir: 'ntifs.h': No such file or directory
+  apic.c
+D:\gcCopia\cheat-engine\DBKKernel\ultimap2\apic.c(1,10): error C1083: Não é possível abrir arquivo incluir: 'ntifs.h': No such file or directory
+  vmxhelper.c
+D:\gcCopia\cheat-engine\DBKKernel\vmxhelper.c(2,10): error C1083: Não é possível abrir arquivo incluir: 'ntifs.h': No such file or directory
+  vmxoffload.c
+D:\gcCopia\cheat-engine\DBKKernel\vmxoffload.c(13,10): error C1083: Não é possível abrir arquivo incluir: 'ntifs.h': No such file or directory
+  Gerando Código...

@@ -1,0 +1,28 @@
+﻿  Building 'DBKKernel' with toolset 'WindowsKernelModeDriver10.0' and the 'Desktop' target platform.
+  Stamping x64\Debug\DBK64.inf
+  Stamping [Version] section with DriverVer=03/03/2025,12.32.37.734
+  DBKDrvr.c
+  DBKFunc.c
+  debugger.c
+  deepkernel.c
+  interruptHook.c
+  IOPLDispatcher.c
+  memscan.c
+  noexceptions.c
+  processlist.c
+  threads.c
+  ultimap.c
+  ultimap2.c
+  apic.c
+  vmxhelper.c
+  vmxoffload.c
+  Gerando Código...
+  DBKKernel.vcxproj -> D:\gcCopia\Cheat Engine\bin\DBK64.sys
+  Done Adding Additional Store
+  Successfully signed: D:\gcCopia\Cheat Engine\bin\DBK64.sys
+  
+  sign driver
+EXEC : error information: "CryptQueryObject" (-2147024893/0x80070003)
+EXEC : SignTool error : An unexpected internal error has occurred.
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(166,5): error MSB3073: O comando ""C:\Program Files (x86)\Windows Kits\10\bin\10.0.26100.0\x64\signtool.exe" sign /a /ac "D:\gcCopia\Cheat Engine\bin\..\release\sig\GlobalSign Root CA.crt" /tr http://rfc3161timestamp.globalsign.com/advanced /td SHA256 /fd SHA256 "D:\gcCopia\Cheat Engine\bin\DBK64.sys"
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(166,5): error MSB3073: :VCEnd" foi encerrado com o código 1.
